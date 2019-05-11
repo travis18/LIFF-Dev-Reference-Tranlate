@@ -55,5 +55,5 @@ _回應範例_
 我們現在已經為你的 LIFF app 建立了 **channel**。下一步，可以嘗試部署範例 App 或開發自己的 LIFF app。
 
 * [嘗試部署範例 App](https://developers.line.biz/en/docs/liff/trying-liff-app/)
-* [開發自己的 LIFF App](developingaliff-app-zi-ji-de-liff-app.md)
+* [開發自己的 LIFF App](developing-liff-apps.md)
 

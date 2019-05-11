@@ -10,11 +10,11 @@ description: 因為想學 LIFF 但是，但官方沒有中文版的文件，想�
 
 ## 快速上手
 
-{% page-ref page="quickstart-kuai-su-shang-shou/gai.md" %}
+{% page-ref page="quickstart-kuai-su-shang-shou/overview.md" %}
 
-{% page-ref page="quickstart-kuai-su-shang-shou/liff-ru.md" %}
+{% page-ref page="quickstart-kuai-su-shang-shou/getting-start.md" %}
 
-{% page-ref page="quickstart-kuai-su-shang-shou/developingaliff-app-zi-ji-de-liff-app.md" %}
+{% page-ref page="quickstart-kuai-su-shang-shou/developing-liff-apps.md" %}
 
 
 

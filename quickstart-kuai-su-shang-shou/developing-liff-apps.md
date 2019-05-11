@@ -33,12 +33,12 @@ LIFF SDK 提供了下列功能。
 
 你可以由 LIFF SDK 在 LIFF APP 中進行一下操作。
 
-* [初始化 LIFF APP](developingaliff-app-zi-ji-de-liff-app.md#chu-shi-hua-liff-app)
-* [開啟 URL](developingaliff-app-zi-ji-de-liff-app.md#url)
-* [取得使用者的存取標記\(access token\)](developingaliff-app-zi-ji-de-liff-app.md#qu-de-shi-yong-zhe-de-cun-qu)
-* [取得使用者資訊](developingaliff-app-zi-ji-de-liff-app.md#qu-de-shi-yong-zhe)
-* [以使用者身分傳送訊息](developingaliff-app-zi-ji-de-liff-app.md#yi-shi-yong-zhe-shen-fen-song-xi)
-* [關閉 LIFF APP](developingaliff-app-zi-ji-de-liff-app.md#liff-app)
+* [初始化 LIFF APP](developing-liff-apps.md#chu-shi-hua-liff-app)
+* [開啟 URL](developing-liff-apps.md#url)
+* [取得使用者的存取標記\(access token\)](developing-liff-apps.md#qu-de-shi-yong-zhe-de-cun-qu)
+* [取得使用者資訊](developing-liff-apps.md#qu-de-shi-yong-zhe)
+* [以使用者身分傳送訊息](developing-liff-apps.md#yi-shi-yong-zhe-shen-fen-song-xi)
+* [關閉 LIFF APP](developing-liff-apps.md#liff-app)
 
 #### 初始化 LIFF APP
 
