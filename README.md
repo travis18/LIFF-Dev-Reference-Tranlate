@@ -1,6 +1,12 @@
 ---
-description: 自己從 LINE Developer 網站翻譯的 LIFF APP 文件
+description: 因為想學 LIFF 但是，但官方沒有中文版的文件，想說邊翻譯邊學習效果應該會不錯，就試試看用自己的破英文來試試看。
 ---
 
-# Initial page
+# LINE Frontend Framework
+
+照著 LIFF 的內容來翻譯
+
+[LIFF 的官方文件網址](https://developers.line.biz/en/docs/liff/)
+
+QUICKSTART - 快速上手
 
