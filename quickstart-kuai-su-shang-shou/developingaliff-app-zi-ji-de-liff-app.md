@@ -1,8 +1,8 @@
+---
+description: 本篇主題解釋將 web app 部署為 LIFF App 所需要的 特定 LIFF 工作。
+---
+
 # Developing a LIFF app - 開發自己的 LIFF App
-
-## Line
-
-本篇主題解釋將 web app 部署為 LIFF App 所需要的 特定 LIFF 工作。
 
 ### 設定 LIFF app 的標題
 

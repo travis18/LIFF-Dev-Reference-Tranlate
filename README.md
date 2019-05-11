@@ -8,5 +8,13 @@ description: 因為想學 LIFF 但是，但官方沒有中文版的文件，想�
 
 [LIFF 的官方文件網址](https://developers.line.biz/en/docs/liff/)
 
-QUICKSTART - 快速上手
+## 快速上手
+
+{% page-ref page="quickstart-kuai-su-shang-shou/gai.md" %}
+
+{% page-ref page="quickstart-kuai-su-shang-shou/liff-ru.md" %}
+
+{% page-ref page="quickstart-kuai-su-shang-shou/developingaliff-app-zi-ji-de-liff-app.md" %}
+
+
 
