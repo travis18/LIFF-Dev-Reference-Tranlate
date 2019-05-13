@@ -19,7 +19,8 @@ LINE 前端框架\(LIFF\) 是一個讓 Web App 跑在 LINE 裡面的平台
 
 ### LIFF APP 的畫面大小
 
-![](&&&SFLOCALFILEPATH&&&viewTypes-4cb714f3.png) 在把你的 app 加到 LIFF 時設定畫面大小，目前僅提供 3 種大小，如上圖\( Compact, Tall 及 Full\)
+在把你的 app 加到 LIFF 時設定畫面大小，目前僅提供 3 種大小，如下圖\( Compact, Tall 及 Full\)
+![](https://developers.line.biz/media/liff/overview/viewTypes-4cb714f3.png)
 
 ### 開始使用 LIFF
 

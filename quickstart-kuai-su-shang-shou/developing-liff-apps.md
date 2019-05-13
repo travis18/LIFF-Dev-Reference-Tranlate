@@ -149,3 +149,6 @@ liff.closeWindow();
 
 #### 下一步
 
+我們現在了解如何將一個 web app 部署為 LIFF app 所需的特定工作。
+接下來的主題就是介紹將這個 LIFF app 加入到 LINE 裡面的程序。
+
